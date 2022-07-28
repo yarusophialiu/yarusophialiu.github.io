@@ -19,6 +19,6 @@ I am currently working on the real-time 3D scene reconstruction and am grateful 
 
 Previously, I specialized in mathematics (75% theoretical math, 25% applied math), and minor in computer science at University of Toronto. Before returning to master, I spent some time in the industry, cofounding Willow, Canada's first real estate investing platform, and worked at HSBC Bank Canada.
 
-Other than my research work, I like reading, fashion and arts. Psychoanalysis, eastern and western philosophy have been my favorite subjects; life philosphy greatly influenced by I Ching, Plato and Francis Bacon; chilhood's fav is L'Étoile (The Star) by Edgar Degas but fascinated by Piet Mondrian and Barnett Newman's work these days.
+Other than my research work, I love reading, fashion and arts. Psychoanalysis, eastern and western philosophy have been my favorite subjects; life philosphy greatly influenced by I Ching, Plato and Francis Bacon; chilhood's fav is L'Étoile by Edgar Degas but fascinated by Piet Mondrian and Barnett Newman's work these days.
 However, research work is my passion, and rest of them are hobbies.
 
