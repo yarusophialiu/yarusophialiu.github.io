@@ -15,7 +15,7 @@ About me
 
 Hi! I’m a first year master student at the McGill University, studying Computer Engineering. In parallel, I’ve been working as a research assistant at the McGill Graphics Lab (MGL), advised by Prof. Derek Nowrouzezahrai.
 
-I am currently working on the real-time 3D scene reconstruction and am grateful to be supervised by Prof. Derek Nowrouzezahrai and Prof. Morgan Mcguire. I’m also broadly interested in computer vision and machine learning, and other topics about computer graphics, e.g. rendering, virtual reality, and augmented reality 
+I am currently working on the neural representations of 3D scenes and am grateful to be supervised by Prof. Derek Nowrouzezahrai and Prof. Morgan Mcguire. I’m also broadly interested in computer vision and machine learning, and other topics about computer graphics, e.g. rendering, virtual reality, and augmented reality 
 
 Previously, I specialized in mathematics (75% theoretical math, 25% applied math), and minor in computer science at University of Toronto. Before returning to master, I spent some time in the industry, cofounding Willow, Canada's first real estate investing platform, and worked at HSBC Bank Canada.
 
