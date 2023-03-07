@@ -10,10 +10,13 @@ Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusm
 "Aren't the pleasures of the affections greater than the pleasures of the senses? And aren't the pleasures of the intellect greater than the pleasures of the affections?"
 
 
+Update:
+I will probably join University of Cambridge this coming October, and join EY (Toronto) as a management consultant intern this summer! Shoot me a message if you want to chat about academics, startup, vc, fashion etc. 
+
 
 About me
 
-Hi! I’m a first year master student at the McGill University, studying Computer Engineering. In parallel, I’ve been working as a research assistant at the McGill Graphics Lab (MGL), advised by Prof. Derek Nowrouzezahrai.
+Hi! I’m a second year master student at the McGill University, studying Computer Engineering. In parallel, I’ve been working as a research assistant at the McGill Graphics Lab (MGL), advised by Prof. Derek Nowrouzezahrai.
 
 I am currently working on the neural representations of 3D scenes and am grateful to be supervised by Prof. Derek Nowrouzezahrai and Prof. Morgan Mcguire. I’m also broadly interested in computer vision and machine learning, and other topics about computer graphics, e.g. rendering, virtual reality, and augmented reality 
 
