@@ -11,6 +11,7 @@ Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusm
 
 
 Update:
+
 I will probably join University of Cambridge this coming October, and join EY (Toronto) as a management consultant intern this summer! Shoot me a message if you want to chat about academics, startup, vc, fashion etc. 
 
 
