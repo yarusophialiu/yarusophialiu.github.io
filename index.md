@@ -11,9 +11,9 @@ Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusm
 
 
 
-Update:
+<!-- Update:
 
-I will probably join University of Cambridge for CS PhD this coming October! Shoot me a message if you want to chat about academics, startup, vc, fashion etc. 
+I will probably join University of Cambridge for CS PhD this coming October! Shoot me a message if you want to chat about academics, startup, vc, fashion etc.  -->
 
 
 About me
@@ -25,7 +25,9 @@ Previously, I obtained my B.Sc. degree in **Mathematics** at University of Toron
 My current research interest lies in the intersection field of Computer Graphics and Machine Learning. My research background includes content adaptive rendering and real-time 3D Reconstruction.
 
 **Scholarship**
+
 [Rabin Ezra Scholarship Trust](https://sites.google.com/view/rabin-ezra-scholarship-trust) 2025
+
 Graduate Excellence Awards, McGill University, 2021-2023
 
 **Publications**

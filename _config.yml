@@ -57,9 +57,9 @@ plugins:
 author:
   name   : "Yaru Liu"
   avatar : "/assets/images/wechatprofile_cropped.jpg"
-  bio    : "M.Sc. @McGill"
+  bio    : "PhD Candidate at Univeristy of Cambridge"
   links:
-    - label: "Montreal, QC"
+    - label: "Cambridge, UK"
       icon: "fas fa-fw fa-map-marker"
       url: ""
     - label: " LinkedIn"
@@ -68,7 +68,7 @@ author:
     - label: "Github"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/yarusophialiu"
-    - label: "yaru.liu@mail.mcgill.ca"
+    - label: "yl962@cam.ac.uk" # "yaru.liu@mail.mcgill.ca"
       icon: "fa fa-envelope"
       url: ""
     # - label: "Instagram"
