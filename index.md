@@ -16,17 +16,17 @@ Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusm
 I will probably join University of Cambridge for CS PhD this coming October! Shoot me a message if you want to chat about academics, startup, vc, fashion etc.  -->
 
 
-## About me
+## 💁‍♀️ About me
 
 I’m a second year PhD student in the Department of CST at University of Cambridge, advised by Prof. [Rafal Mantiuk](https://www.cl.cam.ac.uk/~rkm38/).
 
-Previously, I obtained my B.Sc. degree in **Mathematics** at University of Toronto, and Msc. degree in **Computer Engineering** at McGill University, where I was gratefully supervised by [Prof. Derek Nowrouzezahrai](https://www.cim.mcgill.ca/~derek/) and [Prof. Morgan McGuire](https://casual-effects.com/morgan/index.html).
+Previously, I obtained my B.Sc. degree in **pure math** at University of Toronto, and Msc. degree in **computer engineering** at McGill University, where I was gratefully supervised by [Prof. Derek Nowrouzezahrai](https://www.cim.mcgill.ca/~derek/) and [Prof. Morgan McGuire](https://casual-effects.com/morgan/index.html).
 
 My current research interest lies in the intersection field of Computer Graphics and Machine Learning. My research background includes content adaptive rendering and real-time 3D Reconstruction.
 
+Other than my research work, I love reading, fashion and arts. Psychoanalysis, eastern and western philosophy have been my favorite subjects; life philosphy greatly influenced by I Ching, Plato and Francis Bacon; chilhood's fav is L'Étoile by Edgar Degas but fascinated by Piet Mondrian and Jack Pollock's work these days.
 
-
-## Scholarship
+## 🎓 Scholarship
 
 [Rabin Ezra Scholarship Trust](https://sites.google.com/view/rabin-ezra-scholarship-trust) 2025
 

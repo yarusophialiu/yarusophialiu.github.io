@@ -72,6 +72,14 @@ html {
     transition: none !important; /* Remove animation */
     filter: none !important; /* Remove hover effects like grayscale */
     opacity: 1 !important; /* Ensure full visibility */
+    transform: none !important; /* Removes scaling effects */
+  }
+
+  .author__avatar:hover {
+    transition: none !important;
+    filter: none !important;
+    opacity: 1 !important;
+    transform: none !important; /* Prevent any zoom or hover effects */
   }
 
   img {
