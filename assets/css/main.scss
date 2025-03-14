@@ -78,3 +78,11 @@ html {
     max-width: none !important;
     height: auto !important;
   }
+
+  a {
+    text-decoration: none !important; /* Removes underline from all links */
+  }
+  
+  a:hover {
+    text-decoration: none !important; /* Ensures no underline on hover */
+  }
