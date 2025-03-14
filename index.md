@@ -16,7 +16,7 @@ Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusm
 I will probably join University of Cambridge for CS PhD this coming October! Shoot me a message if you want to chat about academics, startup, vc, fashion etc.  -->
 
 
-About me
+## About me
 
 I’m a second year PhD student in the Department of CST at University of Cambridge, advised by Prof. [Rafal Mantiuk](https://www.cl.cam.ac.uk/~rkm38/).
 
@@ -24,14 +24,38 @@ Previously, I obtained my B.Sc. degree in **Mathematics** at University of Toron
 
 My current research interest lies in the intersection field of Computer Graphics and Machine Learning. My research background includes content adaptive rendering and real-time 3D Reconstruction.
 
-**Scholarship**
+
+
+## Scholarship
 
 [Rabin Ezra Scholarship Trust](https://sites.google.com/view/rabin-ezra-scholarship-trust) 2025
 
-Graduate Excellence Awards, McGill University, 2021-2023
+Graduate Excellence Awards, McGill University 2021-2023
 
-**Publications**
 
+## Research
+### 1. NeuMaDiff: Neural Material Synthesis via Hyperdiffusion
+<img src="assets/images/neumadiff.png" width="500">   
+
+*A real-time system for optimizing frame rate and resolution in game streaming.*
+
+NeuMaDiff is a novel neural material synthesis framework utilizing hyperdiffusion. The method employs
+neural fields as a low-dimensional representation and incorporates a multi-modal conditional hyperdiffusion model
+to learn the distribution over material weights. This enables
+flexible guidance through inputs such as material type, text
+descriptions, or reference images, providing greater control
+over synthesis. 
+
+---
+
+### 2. Real-Time Scene Reconstruction using Light Field Probes
+<img src="assets/images/i3d_cover.png" width="500">   
+
+*Enhancing video quality by reconstructing high-fidelity frames using motion data.*
+
+Our research explores novel view synthesis methods that reconstruct complex scenes without relying on explicit geometry data. Instead of maintaining large and costly 3D models, our approach leverages sparse real-world images to generate multi-scale implicit representations of scene geometries.
+
+A key innovation is our probe data structure, which captures highly accurate depth information from dense data points. This allows us to reconstruct detailed scenes at a lower computational cost, making rendering performance independent of scene complexity. Additionally, compressing and streaming probe data is far more efficient than handling explicit scene geometry, making our method ideal for large-scale rendering applications.
 
 
 
