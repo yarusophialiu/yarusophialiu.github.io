@@ -55,9 +55,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Yaru Liu"
+  # name   : "Yaru Liu"
   avatar : "/assets/images/wechatprofile_cropped.jpg"
-  bio    : "PhD Candidate at Univeristy of Cambridge"
+  # bio    : "PhD Candidate at Univeristy of Cambridge"
   links:
     - label: "Cam Personal Page"
       icon: "fas fa-globe"
