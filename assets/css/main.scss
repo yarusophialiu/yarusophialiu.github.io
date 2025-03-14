@@ -69,6 +69,9 @@ html {
     width: 200px !important; /* Increase width */
     height: 200px !important; /* Ensure aspect ratio */
     border-radius: 50%; /* Keep it circular */
+    transition: none !important; /* Remove animation */
+    filter: none !important; /* Remove hover effects like grayscale */
+    opacity: 1 !important; /* Ensure full visibility */
   }
 
   img {

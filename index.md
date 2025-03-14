@@ -41,8 +41,10 @@ Chenliang Zhou, Zheyuan Hu, Alejandro Sztrajman, Yancheng Cai, Yaru Liu, Cengiz 
 ## 🧪 Research
 
 ### **1. NeuMaDiff: Neural Material Synthesis via Hyperdiffusion**
-<br>Chenliang Zhou, Zheyuan Hu, Alejandro Sztrajman, Yancheng Cai, Yaru Liu, Cengiz Oztireli  
-<br>Submitted to ICCV 2025
+<!-- Chenliang Zhou, Zheyuan Hu, Alejandro Sztrajman, Yancheng Cai, Yaru Liu, Cengiz Oztireli<br>  
+Submitted to ICCV 2025<br> -->
+*Chenliang Zhou, Zheyuan Hu, Alejandro Sztrajman, Yancheng Cai, Yaru Liu, Cengiz Oztireli, Submitted to ICCV 2025* 
+
 <img src="assets/images/neumadiff.png" width="500">  
 
 <!-- NeuMaDiff is a novel **neural material synthesis framework** utilizing **hyperdiffusion**. The method employs **neural fields** as a low-dimensional representation and incorporates a **multi-modal conditional hyperdiffusion model** to learn the distribution over material weights.  
@@ -58,8 +60,8 @@ over synthesis.
 ---
 
 ### 2. Real-Time Scene Reconstruction using Light Field Probes
-<br>Yaru Liu, Derek Nowrouzezahrai, Morgan McGuire
-<br>I3D 2024, Poster
+*Yaru Liu, Derek Nowrouzezahrai, Morgan McGuire, I3D 2024, Poster*
+
 <img src="assets/images/i3d_cover.png" width="500">   
 
 Our research explores novel view synthesis methods that reconstruct complex scenes without relying on explicit geometry data. Our approach leverages sparse real-world images to generate multi-scale implicit representations of scene geometries.
