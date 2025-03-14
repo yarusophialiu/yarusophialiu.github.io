@@ -33,11 +33,20 @@ My current research interest lies in the intersection field of Computer Graphics
 Graduate Excellence Awards, McGill University 2021-2023
 
 
-## Research
+<!-- ## Research
 ### 1. NeuMaDiff: Neural Material Synthesis via Hyperdiffusion
 <img src="assets/images/neumadiff.png" width="500">   
+Chenliang Zhou, Zheyuan Hu, Alejandro Sztrajman, Yancheng Cai, Yaru Liu, Cengiz Oztireli -->
 
-*A real-time system for optimizing frame rate and resolution in game streaming.*
+## 🧪 Research
+
+### **1. NeuMaDiff: Neural Material Synthesis via Hyperdiffusion**
+<br>Chenliang Zhou, Zheyuan Hu, Alejandro Sztrajman, Yancheng Cai, Yaru Liu, Cengiz Oztireli  
+<br>Submitted to ICCV 2025
+<img src="assets/images/neumadiff.png" width="500">  
+
+<!-- NeuMaDiff is a novel **neural material synthesis framework** utilizing **hyperdiffusion**. The method employs **neural fields** as a low-dimensional representation and incorporates a **multi-modal conditional hyperdiffusion model** to learn the distribution over material weights.  
+This enables **flexible guidance** through inputs such as **material type, text descriptions, or reference images**, providing greater control over material synthesis. -->
 
 NeuMaDiff is a novel neural material synthesis framework utilizing hyperdiffusion. The method employs
 neural fields as a low-dimensional representation and incorporates a multi-modal conditional hyperdiffusion model
@@ -49,13 +58,12 @@ over synthesis.
 ---
 
 ### 2. Real-Time Scene Reconstruction using Light Field Probes
+<br>Yaru Liu, Derek Nowrouzezahrai, Morgan McGuire
+<br>I3D 2024, Poster
 <img src="assets/images/i3d_cover.png" width="500">   
 
-*Enhancing video quality by reconstructing high-fidelity frames using motion data.*
-
-Our research explores novel view synthesis methods that reconstruct complex scenes without relying on explicit geometry data. Instead of maintaining large and costly 3D models, our approach leverages sparse real-world images to generate multi-scale implicit representations of scene geometries.
-
-A key innovation is our probe data structure, which captures highly accurate depth information from dense data points. This allows us to reconstruct detailed scenes at a lower computational cost, making rendering performance independent of scene complexity. Additionally, compressing and streaming probe data is far more efficient than handling explicit scene geometry, making our method ideal for large-scale rendering applications.
+Our research explores novel view synthesis methods that reconstruct complex scenes without relying on explicit geometry data. Our approach leverages sparse real-world images to generate multi-scale implicit representations of scene geometries.
+A key innovation is our probe data structure, which captures highly accurate depth information from dense data points. This allows us to reconstruct detailed scenes at a lower computational cost, making rendering performance independent of scene complexity. Additionally, compressing and streaming probe data is more efficient than handling explicit scene geometry, making our method ideal for large-scale rendering applications.
 
 
 

@@ -65,3 +65,13 @@ html {
     text-decoration: none;
   }
 
+  .author__avatar {
+    width: 200px !important; /* Increase width */
+    height: 200px !important; /* Ensure aspect ratio */
+    border-radius: 50%; /* Keep it circular */
+  }
+
+  img {
+    max-width: none !important;
+    height: auto !important;
+  }
