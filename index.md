@@ -26,7 +26,6 @@ My current research interest lies in the intersection field of Computer Graphics
 
 Other than my research work, I love reading, fashion and arts. Psychoanalysis, eastern and western philosophy have been my favorite subjects; life philosphy greatly influenced by I Ching, Plato and Francis Bacon; chilhood's fav is L'Étoile by Edgar Degas but fascinated by Piet Mondrian and Jack Pollock's work these days.
 
-<br>
 
 ## 🎓 Scholarship
 
@@ -40,7 +39,6 @@ Graduate Excellence Awards, McGill University 2021-2023
 <img src="assets/images/neumadiff.png" width="500">   
 Chenliang Zhou, Zheyuan Hu, Alejandro Sztrajman, Yancheng Cai, Yaru Liu, Cengiz Oztireli -->
 
-<br>
 
 ## 🧪 Research
 
