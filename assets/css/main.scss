@@ -66,12 +66,15 @@ html {
   }
 
   .author__avatar {
-    width: 300px !important; /* Increase width */
-    height: 300px !important; /* Ensure aspect ratio */
+    width: 280px !important; /* Increase width */
+    height: 280px !important; /* Ensure aspect ratio */
     border-radius: 50%; /* Keep it circular */
     transition: none !important; /* Remove animation */
     filter: none !important; /* Remove hover effects like grayscale */
     opacity: 1 !important; /* Ensure full visibility */
+    margin-bottom: 15px;
+    margin-right: 10px;
+
     // transform: none !important; /* Removes scaling effects */
   }
 
