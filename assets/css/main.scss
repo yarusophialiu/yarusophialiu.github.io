@@ -66,8 +66,8 @@ html {
   }
 
   .author__avatar {
-    width: 400px !important; /* Increase width */
-    height: 400px !important; /* Ensure aspect ratio */
+    width: 350px !important; /* Increase width */
+    height: 350px !important; /* Ensure aspect ratio */
     border-radius: 50%; /* Keep it circular */
     transition: none !important; /* Remove animation */
     filter: none !important; /* Remove hover effects like grayscale */
@@ -75,12 +75,12 @@ html {
     transform: none !important; /* Removes scaling effects */
   }
 
-  .author__avatar:hover {
-    transition: none !important;
-    filter: none !important;
-    opacity: 1 !important;
-    transform: none !important; /* Prevent any zoom or hover effects */
-  }
+  // .author__avatar:hover {
+  //   transition: none !important;
+  //   filter: none !important;
+  //   opacity: 1 !important;
+  //   transform: none !important; /* Prevent any zoom or hover effects */
+  // }
 
   img {
     max-width: none !important;
