@@ -55,7 +55,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : ""
+  name   : " "
   avatar : "/assets/images/wechatprofile_cropped.jpg"
   # bio    : "PhD Candidate at Univeristy of Cambridge"
   links:

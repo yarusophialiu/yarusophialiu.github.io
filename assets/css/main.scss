@@ -66,13 +66,13 @@ html {
   }
 
   .author__avatar {
-    width: 350px !important; /* Increase width */
-    height: 350px !important; /* Ensure aspect ratio */
+    width: 300px !important; /* Increase width */
+    height: 300px !important; /* Ensure aspect ratio */
     border-radius: 50%; /* Keep it circular */
     transition: none !important; /* Remove animation */
     filter: none !important; /* Remove hover effects like grayscale */
     opacity: 1 !important; /* Ensure full visibility */
-    transform: none !important; /* Removes scaling effects */
+    // transform: none !important; /* Removes scaling effects */
   }
 
   // .author__avatar:hover {
