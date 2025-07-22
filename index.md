@@ -32,7 +32,7 @@ Feel free to reach out via email if you're interested in research collaborationâ
 ## News
 [June, 2025] I'm glad to be selected as a finalist for the [Qualcomm Innovation Fellowship Europe 2025](https://www.qualcomm.com/research/university-relations/innovation-fellowship)!
 
-[March, 2025] I'm honored to receive the [Rabin Ezra Scholarship Trust](https://sites.google.com/view/rabin-ezra-scholarship-trust) 2025 Award.
+[March, 2025] I'm honored to receive the [Rabin Ezra Scholarship Trust](https://sites.google.com/view/rabin-ezra-scholarship-trust) 2025 Award!
 <!-- Graduate Excellence Awards, McGill University 2021-2023 -->
 
 
