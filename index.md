@@ -47,7 +47,7 @@ Chenliang Zhou, Zheyuan Hu, Alejandro Sztrajman, Yancheng Cai, Yaru Liu, Cengiz 
 ### [NeuMaDiff: Neural Material Synthesis via Hyperdiffusion](https://arxiv.org/abs/2411.12015)
 <!-- Chenliang Zhou, Zheyuan Hu, Alejandro Sztrajman, Yancheng Cai, Yaru Liu, Cengiz Oztireli<br>  
 Submitted to ICCV 2025<br> -->
-*Chenliang Zhou, Zheyuan Hu, Alejandro Sztrajman, Yancheng Cai, Yaru Liu, Cengiz Oztireli, Submitted to ICCV 2025* 
+Chenliang Zhou, Zheyuan Hu, Alejandro Sztrajman, Yancheng Cai, **Yaru Liu**, Cengiz Oztireli, Submitted to ICCV 2025
 
 <img src="assets/images/neumadiff.png" width="500">  
 
@@ -64,7 +64,7 @@ over synthesis.
 ---
 
 ### [Real-Time Scene Reconstruction using Light Field Probes](https://arxiv.org/abs/2507.14624)
-*Yaru Liu, Derek Nowrouzezahrai, Morgan McGuire, I3D 2024, Poster*
+**Yaru Liu**, Derek Nowrouzezahrai, Morgan McGuire, I3D 2024, Poster
 
 <img src="assets/images/i3d_cover.png" width="500">   
 
