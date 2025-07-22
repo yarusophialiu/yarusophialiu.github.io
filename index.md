@@ -16,7 +16,7 @@ Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusm
 I will probably join University of Cambridge for CS PhD this coming October! Shoot me a message if you want to chat about academics, startup, vc, fashion etc.  -->
 
 
-## 💁‍♀️ About me
+## About me
 
 I’m a second year PhD student in the Department of CST at University of Cambridge, advised by Prof. [Rafal Mantiuk](https://www.cl.cam.ac.uk/~rkm38/).
 
@@ -27,11 +27,13 @@ My current research interest lies in the intersection field of Computer Graphics
 Other than my research work, I love reading, fashion and arts. Psychoanalysis, eastern and western philosophy have been my favorite subjects; life philosphy greatly influenced by I Ching, Plato and Francis Bacon; chilhood's fav is L'Étoile by Edgar Degas but fascinated by Piet Mondrian and Jack Pollock's work these days.
 
 
-## 🎓 Scholarship
+## News
+
+Finalist of [Qualcomm Innovation Fellowship Europe 2025](https://www.qualcomm.com/research/university-relations/innovation-fellowship)
 
 [Rabin Ezra Scholarship Trust](https://sites.google.com/view/rabin-ezra-scholarship-trust) 2025
 
-Graduate Excellence Awards, McGill University 2021-2023
+<!-- Graduate Excellence Awards, McGill University 2021-2023 -->
 
 
 <!-- ## Research
@@ -40,9 +42,9 @@ Graduate Excellence Awards, McGill University 2021-2023
 Chenliang Zhou, Zheyuan Hu, Alejandro Sztrajman, Yancheng Cai, Yaru Liu, Cengiz Oztireli -->
 
 
-## 🧪 Research
+## Research
 
-### **1. NeuMaDiff: Neural Material Synthesis via Hyperdiffusion**
+### [NeuMaDiff: Neural Material Synthesis via Hyperdiffusion](https://arxiv.org/abs/2411.12015)
 <!-- Chenliang Zhou, Zheyuan Hu, Alejandro Sztrajman, Yancheng Cai, Yaru Liu, Cengiz Oztireli<br>  
 Submitted to ICCV 2025<br> -->
 *Chenliang Zhou, Zheyuan Hu, Alejandro Sztrajman, Yancheng Cai, Yaru Liu, Cengiz Oztireli, Submitted to ICCV 2025* 
@@ -61,7 +63,7 @@ over synthesis.
 
 ---
 
-### 2. Real-Time Scene Reconstruction using Light Field Probes
+### [Real-Time Scene Reconstruction using Light Field Probes](https://arxiv.org/abs/2507.14624)
 *Yaru Liu, Derek Nowrouzezahrai, Morgan McGuire, I3D 2024, Poster*
 
 <img src="assets/images/i3d_cover.png" width="500">   
