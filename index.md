@@ -18,7 +18,7 @@ I will probably join University of Cambridge for CS PhD this coming October! Sho
 
 ## About me
 
-I’m a second year PhD student in the Department of CST at University of Cambridge, advised by Prof. [Rafal Mantiuk](https://www.cl.cam.ac.uk/~rkm38/). My current research interest lies in the intersection field of Computer Graphics and Machine Learning. My research background includes content adaptive rendering and real-time 3D Reconstruction.
+I’m a second year PhD student in the Department of CST at University of Cambridge, advised by Prof. [Rafal Mantiuk](https://www.cl.cam.ac.uk/~rkm38/). My current research interest lies in the intersection field of **Computer Graphics** and **Machine Learning**. My research background includes content adaptive rendering and real-time 3D Reconstruction.
 
 
 Previously, I obtained my B.Sc. degree in **pure math** at University of Toronto, and Msc. degree in **computer engineering** at McGill University, where I was gratefully supervised by [Prof. Derek Nowrouzezahrai](https://www.cim.mcgill.ca/~derek/) and [Prof. Morgan McGuire](https://casual-effects.com/morgan/index.html).
