@@ -73,7 +73,7 @@ over synthesis.
 ### [Real-Time Scene Reconstruction using Light Field Probes](https://arxiv.org/abs/2507.14624)
 **Yaru Liu**, Derek Nowrouzezahrai, Morgan McGuire, I3D 2024, Poster
 
-<img src="assets/images/i3d_cover.png" width="400">   
+<img src="assets/images/i3d_cover.png" width="390">   
 
 Our research explores novel view synthesis methods that reconstruct complex scenes without relying on explicit geometry data. Our approach leverages sparse real-world images to generate multi-scale implicit representations of scene geometries.
 A key innovation is our probe data structure, which captures highly accurate depth information from dense data points. This allows us to reconstruct detailed scenes at a lower computational cost, making rendering performance independent of scene complexity. Additionally, compressing and streaming probe data is more efficient than handling explicit scene geometry, making our method ideal for large-scale rendering applications.
