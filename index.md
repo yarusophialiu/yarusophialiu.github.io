@@ -44,11 +44,11 @@ Chenliang Zhou, Zheyuan Hu, Alejandro Sztrajman, Yancheng Cai, Yaru Liu, Cengiz 
 
 
 ## Research
-
+<!-- 
 ### Streaming of rendered content with adaptive frame rate and resolution
 **Yaru Liu**, Joseph March, Rafal Mantiuk
 
-<img src="assets/images/streaming_teaser_figure.png" width="400">   
+<img src="assets/images/streaming_teaser_figure.png" width="400">    -->
 
 
 ### [NeuMaDiff: Neural Material Synthesis via Hyperdiffusion](https://arxiv.org/abs/2411.12015)
