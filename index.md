@@ -2,24 +2,39 @@
 
 <br>
 
-# Yaru Liu
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 40px; margin-bottom: 30px;">
+  <!-- Left Column: Profile Picture -->
+  <div style="flex: 0 0 230px; text-align: center;">
+    <img src="assets/images/profile_phd.JPG" style="width: 100%; max-width: 230px; border-radius: 8px; margin-bottom: 12px;">
+    <p style="margin: 0; font-size: 0.95em; line-height: 1.5;">
+      <a href="https://scholar.google.co.uk/citations?view_op=list_works&hl=en&user=F5qFAhUAAAAJ">Google Scholar</a><br>
+      <a href="https://www.linkedin.com/in/yaru-liu-aa5288bb/">LinkedIn</a> &nbsp;|&nbsp;
+      <a href="https://github.com/yarusophialiu">GitHub</a> &nbsp;|&nbsp;
+      <a href="mailto:yl962@cam.ac.uk">Email</a>
+    </p>
+  </div>
+  
+  <!-- Right Column: Title and Bio text -->
+  <div style="flex: 1 1 400px;">
+    <h1 style="text-align: center; border-bottom: none; margin: 0 0 15px 0;">Yaru Liu</h1>
 
-<div style="float: right; margin-left: 20px; width: 230px; text-align: center;">
-  <img src="assets/images/profile_phd.JPG" width="230" style="border-radius: 8px; margin-bottom: 8px;">
-  <p style="margin: 0; font-size: 0.95em; line-height: 1.5;">
-    <a href="https://scholar.google.co.uk/citations?view_op=list_works&hl=en&user=F5qFAhUAAAAJ">Google Scholar</a><br>
-    <a href="https://www.linkedin.com/in/yaru-liu-aa5288bb/">LinkedIn</a> &nbsp;|&nbsp;
-    <a href="https://github.com/yarusophialiu">GitHub</a>
-  </p>
+    <p>
+      Hi there! I’m a third year PhD student in the Department of CST at University of Cambridge, advised by Prof. <a href="https://www.cl.cam.ac.uk/~rkm38/">Rafal Mantiuk</a>. My PhD research lies in the intersection field of <strong>Computer Graphics</strong> and <strong>Machine Learning</strong>. My research background includes content adaptive rendering and real-time 3D Reconstruction.
+    </p>
+
+    <p>
+      Previously, I obtained my B.Sc. degree in <strong>pure math</strong> at University of Toronto, and Msc. degree in <strong>computer engineering</strong> at McGill University, where I was gratefully supervised by <a href="https://www.cim.mcgill.ca/~derek/">Prof. Derek Nowrouzezahrai</a> and <a href="https://casual-effects.com/morgan/index.html">Prof. Morgan McGuire</a>.
+    </p>
+
+    <p>
+      Beyond research, I love business and fashion. I've created 3 startups with 1 exit, and am super interested in startups with higher technical barriers. I am driven by applicable questions, and sometimes use business to anchor my academic pursuits. Beyond that, fashion serves as my creative therapy. To me, these three don't just coexist — they complement and elevate one another.
+    </p>
+
+    <p>
+      Feel free to reach out for collaboration🩵
+    </p>
+  </div>
 </div>
-
-Hi there! I’m a third year PhD student in the Department of CST at University of Cambridge, advised by Prof. [Rafal Mantiuk](https://www.cl.cam.ac.uk/~rkm38/). My PhD research lies in the intersection field of **Computer Graphics** and **Machine Learning**. My research background includes content adaptive rendering and real-time 3D Reconstruction.
-
-Previously, I obtained my B.Sc. degree in **pure math** at University of Toronto, and Msc. degree in **computer engineering** at McGill University, where I was gratefully supervised by [Prof. Derek Nowrouzezahrai](https://www.cim.mcgill.ca/~derek/) and [Prof. Morgan McGuire](https://casual-effects.com/morgan/index.html).
-
-Beyond research, I love business and fashion. I've created 3 startups with 1 exit, and am super interested in startups with higher technical barriers. I am driven by applicable questions, and sometimes use business to anchor my academic pursuits. Beyond that, fashion serves as my creative therapy. To me, these three don't just coexist — they complement and elevate one another.
-
-Feel free to reach out for collaboration🩵
 
 
 ## News

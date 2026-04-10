@@ -113,3 +113,12 @@ html {
     float: none !important;
     margin: 0 !important;
   }
+
+  /* Hide default layout header/masthead for a cleaner single-page look */
+  .masthead {
+    display: none !important;
+  }
+  
+  .page__title {
+    display: none !important;
+  }
