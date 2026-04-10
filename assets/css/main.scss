@@ -97,3 +97,19 @@ html {
   a:hover {
     text-decoration: none !important; /* Ensures no underline on hover */
   }
+
+  /* Make the main content area wider and center it like the requested template */
+  #main {
+    max-width: 900px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+  }
+
+  .page {
+    width: 100% !important;
+    padding: 0 !important;
+    float: none !important;
+    margin: 0 !important;
+  }

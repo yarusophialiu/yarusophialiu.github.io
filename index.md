@@ -13,7 +13,7 @@
   </p>
 </div>
 
-Hi there! I’m a third year PhD student in the Department of CST at University of Cambridge, advised by Prof. [Rafal Mantiuk](https://www.cl.cam.ac.uk/~rkm38/). My current research interest lies in the intersection field of **Computer Graphics** and **Machine Learning**. My research background includes content adaptive rendering and real-time 3D Reconstruction.
+Hi there! I’m a third year PhD student in the Department of CST at University of Cambridge, advised by Prof. [Rafal Mantiuk](https://www.cl.cam.ac.uk/~rkm38/). My PhD research lies in the intersection field of **Computer Graphics** and **Machine Learning**. My research background includes content adaptive rendering and real-time 3D Reconstruction.
 
 Previously, I obtained my B.Sc. degree in **pure math** at University of Toronto, and Msc. degree in **computer engineering** at McGill University, where I was gratefully supervised by [Prof. Derek Nowrouzezahrai](https://www.cim.mcgill.ca/~derek/) and [Prof. Morgan McGuire](https://casual-effects.com/morgan/index.html).
 
@@ -32,7 +32,7 @@ Feel free to reach out for collaboration🩵
 
 ## Publications
 
-### [NeuMaDiff: Neural Material Synthesis via Hyperdiffusion](https://arxiv.org/abs/2411.12015)
+<!-- ### [NeuMaDiff: Neural Material Synthesis via Hyperdiffusion](https://arxiv.org/abs/2411.12015)
 Chenliang Zhou, Zheyuan Hu, Alejandro Sztrajman, Yancheng Cai, **Yaru Liu**, Cengiz Oztireli<br>
 *Submitted to ICCV 2025*<br>
 [[Paper]](https://arxiv.org/abs/2411.12015)
@@ -44,7 +44,7 @@ neural fields as a low-dimensional representation and incorporates a multi-modal
 to learn the distribution over material weights. This enables
 flexible guidance through inputs such as material type, text
 descriptions, or reference images, providing greater control
-over synthesis. 
+over synthesis.  -->
 
 ---
 
