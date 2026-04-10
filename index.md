@@ -47,9 +47,7 @@ Feel free to reach out for collaboration🩵
       <img src="assets/images/streaming_adaptive.jpg" style="width:100%; max-width: 240px; border-radius: 8px;">
     </td>
     <td style="padding:20px;width:65%;vertical-align:middle">
-      <a href="">
-        <span style="font-weight: bold; font-size: 1.1em;">Streaming of rendered content with adaptive frame rate and resolution</span>
-      </a>
+      <span style="font-weight: bold; font-size: 1.1em;">Streaming of rendered content with adaptive frame rate and resolution</span>
       <br>
       <strong>Yaru Liu</strong>, Joseph March, Rafal Mantiuk
       <br>
@@ -80,9 +78,7 @@ Feel free to reach out for collaboration🩵
       <img src="assets/images/seeing_enough.jpg" style="width:100%; max-width: 240px; border-radius: 8px;">
     </td>
     <td style="padding:20px;width:65%;vertical-align:middle">
-      <a href="https://arxiv.org/abs/2604.07959">
-        <span style="font-weight: bold; font-size: 1.1em;">Seeing enough: non-reference perceptual resolution selection for power-efficient client-side rendering</span>
-      </a>
+      <span style="font-weight: bold; font-size: 1.1em;">Seeing enough: non-reference perceptual resolution selection for power-efficient client-side rendering</span>
       <br>
       <strong>Yaru Liu</strong>, Dayllon Vinícius Xavier Lemos, Ali Bozorgian, Chengxi Zeng, Alexander Hepburn, Arnau Raventos, 2026
       <br>
@@ -111,9 +107,7 @@ Feel free to reach out for collaboration🩵
       <img src="assets/images/m3ashy.png" style="width:100%; max-width: 240px; border-radius: 8px;">
     </td>
     <td style="padding:20px;width:65%;vertical-align:middle">
-      <a href="https://ojs.aaai.org/index.php/AAAI/article/view/38363">
-        <span style="font-weight: bold; font-size: 1.1em;">M3ashy: Multi-modal material synthesis via hyperdiffusion</span>
-      </a>
+      <span style="font-weight: bold; font-size: 1.1em;">M3ashy: Multi-modal material synthesis via hyperdiffusion</span>
       <br>
       Chenliang Zhou, Zheyuan Hu, Alejandro Sztrajman, Yancheng Cai, <strong>Yaru Liu</strong>, Cengiz Oztireli
       <br>
@@ -130,9 +124,7 @@ Feel free to reach out for collaboration🩵
       <img src="assets/images/i3d_cover.png" style="width:100%; max-width: 240px; border-radius: 8px;">
     </td>
     <td style="padding:20px;width:65%;vertical-align:middle">
-      <a href="https://arxiv.org/abs/2507.14624">
-        <span style="font-weight: bold; font-size: 1.1em;">Real-Time Scene Reconstruction using Light Field Probes</span>
-      </a>
+      <span style="font-weight: bold; font-size: 1.1em;">Real-Time Scene Reconstruction using Light Field Probes</span>
       <br>
       <strong>Yaru Liu</strong>, Derek Nowrouzezahrai, Morgan McGuire
       <br>
