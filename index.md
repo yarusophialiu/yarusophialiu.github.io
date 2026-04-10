@@ -15,24 +15,16 @@
   </div>
   
   <!-- Right Column: Title and Bio text -->
-  <div style="flex: 1 1 400px;">
+  <div style="flex: 1 1 400px;" markdown="1">
     <h1 style="text-align: center; border-bottom: none; margin: 0 0 15px 0;">Yaru Liu</h1>
 
-    <p>
-      Hi there! I’m a third year PhD student in the Department of CST at University of Cambridge, advised by Prof. <a href="https://www.cl.cam.ac.uk/~rkm38/">Rafal Mantiuk</a>. My PhD research lies in the intersection field of <strong>Computer Graphics</strong> and <strong>Machine Learning</strong>. My research background includes content adaptive rendering and real-time 3D Reconstruction.
-    </p>
+Hi there! I’m a third year PhD student in the Department of CST at University of Cambridge, advised by Prof. [Rafal Mantiuk](https://www.cl.cam.ac.uk/~rkm38/). My PhD research lies in the intersection field of **Computer Graphics** and **Machine Learning**. My research background includes content adaptive rendering and real-time 3D Reconstruction.
 
-    <p>
-      Previously, I obtained my B.Sc. degree in <strong>pure math</strong> at University of Toronto, and Msc. degree in <strong>computer engineering</strong> at McGill University, where I was gratefully supervised by <a href="https://www.cim.mcgill.ca/~derek/">Prof. Derek Nowrouzezahrai</a> and <a href="https://casual-effects.com/morgan/index.html">Prof. Morgan McGuire</a>.
-    </p>
+Previously, I obtained my B.Sc. degree in **pure math** at University of Toronto, and Msc. degree in **computer engineering** at McGill University, where I was gratefully supervised by [Prof. Derek Nowrouzezahrai](https://www.cim.mcgill.ca/~derek/) and [Prof. Morgan McGuire](https://casual-effects.com/morgan/index.html).
 
-    <p>
-      Beyond research, I love business and fashion. I've created 3 startups with 1 exit, and am super interested in startups with higher technical barriers. I am driven by applicable questions, and sometimes use business to anchor my academic pursuits. Beyond that, fashion serves as my creative therapy. To me, these three don't just coexist — they complement and elevate one another.
-    </p>
+Beyond research, I love business and fashion. I've created 3 startups with 1 exit, and am super interested in things with high technical barriers. I am driven by applicable questions, and sometimes use business to anchor my academic pursuits. Beyond that, fashion serves as my creative therapy. To me, these three don't just coexist — they complement and elevate one another.
 
-    <p>
-      Feel free to reach out for collaboration🩵
-    </p>
+Feel free to reach out for collaboration🩵
   </div>
 </div>
 
@@ -47,28 +39,91 @@
 
 ## Publications
 
-<!-- ### [NeuMaDiff: Neural Material Synthesis via Hyperdiffusion](https://arxiv.org/abs/2411.12015)
-Chenliang Zhou, Zheyuan Hu, Alejandro Sztrajman, Yancheng Cai, **Yaru Liu**, Cengiz Oztireli<br>
-*Submitted to ICCV 2025*<br>
-[[Paper]](https://arxiv.org/abs/2411.12015)
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+  
+  <!-- Streaming of rendered content -->
+  <tr>
+    <td style="padding:20px;width:25%;vertical-align:middle; text-align: center;">
+      <img src="assets/images/streaming_adaptive.jpg" style="width:100%; max-width: 160px; border-radius: 8px;">
+    </td>
+    <td style="padding:20px;width:75%;vertical-align:middle">
+      <a href="https://arxiv.org/abs/2604.07959">
+        <span style="font-weight: bold; font-size: 1.1em;">Streaming of rendered content with adaptive frame rate and resolution</span>
+      </a>
+      <br>
+      <strong>Yaru Liu</strong>, et al.
+      <br>
+      <em>Accepted to SIGGRAPH 2026</em>
+      <br>
+      <a href="https://arxiv.org/abs/2604.07959">[Paper]</a>
+      <p style="margin-top: 8px; font-size: 0.95em;">We exploit the spatio-temporal limits of the human visual system to adaptively adjust frame rate and resolution based on scene content and motion. A lightweight neural network predicts the optimal configuration to maximize perceptual quality while minimizing rendering load under bandwidth constraints.</p>
+    </td>
+  </tr>
 
-<img src="assets/images/neumadiff.png" width="400">  
+  <!-- V-CAGE -->
+  <tr>
+    <td style="padding:20px;width:25%;vertical-align:middle;text-align:center;">
+      <img src="assets/images/vcage.png" style="width:100%; max-width: 160px; border-radius: 8px;">
+    </td>
+    <td style="padding:20px;width:75%;vertical-align:middle">
+      <span style="font-weight: bold; font-size: 1.1em;">V-CAGE: Vision-Closed-Loop Agentic Generation Engine for Robotic Manipulation</span>
+      <br>
+      <strong>Yaru Liu</strong>, et al.
+      <br>
+      <p style="margin-top: 8px; font-size: 0.95em;">We present V-CAGE, an agentic framework for autonomous robotic data synthesis that leverages foundation models to bridge high-level semantic reasoning with low-level physical interaction. By centralizing semantic layout planning and visual self-verification, V-CAGE fully automates the end-to-end pipeline for highly scalable robotic datasets.</p>
+    </td>
+  </tr>
 
-NeuMaDiff is a novel neural material synthesis framework utilizing hyperdiffusion. The method employs
-neural fields as a low-dimensional representation and incorporates a multi-modal conditional hyperdiffusion model
-to learn the distribution over material weights. This enables
-flexible guidance through inputs such as material type, text
-descriptions, or reference images, providing greater control
-over synthesis.  -->
+  <!-- Seeing enough -->
+  <tr>
+    <td style="padding:20px;width:25%;vertical-align:middle;text-align:center;">
+      <img src="assets/images/seeing_enough.jpg" style="width:100%; max-width: 160px; border-radius: 8px;">
+    </td>
+    <td style="padding:20px;width:75%;vertical-align:middle">
+      <a href="https://arxiv.org/abs/2604.07959">
+        <span style="font-weight: bold; font-size: 1.1em;">Seeing enough: non-reference perceptual resolution selection for power-efficient client-side rendering</span>
+      </a>
+      <br>
+      <strong>Yaru Liu</strong>, et al.
+      <br>
+      <a href="https://arxiv.org/abs/2604.07959">[Paper]</a>
+      <p style="margin-top: 8px; font-size: 0.95em;">We propose a non-reference method leveraging the spatio-temporal limits of human vision to predict the lowest resolution that remains perceptually indistinguishable from maximum quality. This enables highly efficient, perception-guided client-side rendering on power-constrained devices.</p>
+    </td>
+  </tr>
 
----
+  <!-- M3ashy -->
+  <tr>
+    <td style="padding:20px;width:25%;vertical-align:middle;text-align:center;">
+      <img src="assets/images/m3ashy.png" style="width:100%; max-width: 160px; border-radius: 8px;">
+    </td>
+    <td style="padding:20px;width:75%;vertical-align:middle">
+      <a href="https://ojs.aaai.org/index.php/AAAI/article/view/38363">
+        <span style="font-weight: bold; font-size: 1.1em;">M3ashy: Multi-modal material synthesis via hyperdiffusion</span>
+      </a>
+      <br>
+      Chenliang Zhou, Zheyuan Hu, Alejandro Sztrajman, Yancheng Cai, <strong>Yaru Liu</strong>, Cengiz Oztireli
+      <br>
+      <a href="https://ojs.aaai.org/index.php/AAAI/article/view/38363">[Paper]</a>
+      <p style="margin-top: 8px; font-size: 0.95em;">This framework enables neural material synthesis utilizing hyperdiffusion to learn the distribution over material weights. It provides flexible generation guided by multi-modal inputs such as material types, text descriptions, or reference images.</p>
+    </td>
+  </tr>
 
-### [Real-Time Scene Reconstruction using Light Field Probes](https://arxiv.org/abs/2507.14624)
-**Yaru Liu**, Derek Nowrouzezahrai, Morgan McGuire<br>
-*I3D 2024, Poster*<br>
-[[Paper]](https://arxiv.org/abs/2507.14624)
-
-<img src="assets/images/i3d_cover.png" width="390">   
-
-Our research explores novel view synthesis methods that reconstruct complex scenes without relying on explicit geometry data. Our approach leverages sparse real-world images to generate multi-scale implicit representations of scene geometries.
-A key innovation is our probe data structure, which captures highly accurate depth information from dense data points. This allows us to reconstruct detailed scenes at a lower computational cost, making rendering performance independent of scene complexity. Additionally, compressing and streaming probe data is more efficient than handling explicit scene geometry, making our method ideal for large-scale rendering applications.
+  <!-- Real-Time Scene Reconstruction -->
+  <tr>
+    <td style="padding:20px;width:25%;vertical-align:middle;text-align:center;">
+      <img src="assets/images/i3d_cover.png" style="width:100%; max-width: 160px; border-radius: 8px;">
+    </td>
+    <td style="padding:20px;width:75%;vertical-align:middle">
+      <a href="https://arxiv.org/abs/2507.14624">
+        <span style="font-weight: bold; font-size: 1.1em;">Real-Time Scene Reconstruction using Light Field Probes</span>
+      </a>
+      <br>
+      <strong>Yaru Liu</strong>, Derek Nowrouzezahrai, Morgan McGuire
+      <br>
+      <em>I3D 2024, Poster</em>
+      <br>
+      <a href="https://arxiv.org/abs/2507.14624">[Paper]</a>
+      <p style="margin-top: 8px; font-size: 0.95em;">Our approach leverages sparse real-world images to generate multi-scale implicit representations of scene geometries. By introducing a novel probe data structure, we accurately capture depths to decouple rendering performance from scene complexity.</p>
+    </td>
+  </tr>
+</table>
