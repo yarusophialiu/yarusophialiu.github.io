@@ -68,7 +68,7 @@ Feel free to reach out for collaboration🩵
     <td style="padding:20px;width:65%;vertical-align:middle">
       <span style="font-weight: bold; font-size: 1.1em;">V-CAGE: Vision-Closed-Loop Agentic Generation Engine for Robotic Manipulation</span>
       <br>
-      <strong>Yaru Liu</strong>, Ao-bo Wang, Nanyang Ye
+      <strong>Yaru Liu</strong>, Ao-bo Wang, Nanyang Ye, 2026
       <br>
       <p style="margin-top: 8px; font-size: 0.95em;">We present V-CAGE, an agentic framework for autonomous robotic data synthesis that leverages foundation models to bridge high-level semantic reasoning with low-level physical interaction. By centralizing semantic layout planning and visual self-verification, V-CAGE fully automates the end-to-end pipeline for highly scalable robotic datasets.</p>
     </td>
@@ -84,7 +84,7 @@ Feel free to reach out for collaboration🩵
         <span style="font-weight: bold; font-size: 1.1em;">Seeing enough: non-reference perceptual resolution selection for power-efficient client-side rendering</span>
       </a>
       <br>
-      <strong>Yaru Liu</strong>, Dayllon Vinícius Xavier Lemos, Ali Bozorgian, Chengxi Zeng, Alexander Hepburn, Arnau Raventos
+      <strong>Yaru Liu</strong>, Dayllon Vinícius Xavier Lemos, Ali Bozorgian, Chengxi Zeng, Alexander Hepburn, Arnau Raventos, 2026
       <br>
       <a href="https://arxiv.org/abs/2604.07959">[Paper]</a>
       <p style="margin-top: 8px; font-size: 0.95em;">We propose a non-reference method leveraging the spatio-temporal limits of human vision to predict the lowest resolution that remains perceptually indistinguishable from maximum quality. This enables highly efficient, perception-guided client-side rendering on power-constrained devices.</p>
@@ -99,7 +99,7 @@ Feel free to reach out for collaboration🩵
     <td style="padding:20px;width:65%;vertical-align:middle">
       <span style="font-weight: bold; font-size: 1.1em;">SPEM-F: Accounting for Eye Motion in Image and Video Quality Metrics</span>
       <br>
-      Pontus Ebelin, <strong>Yaru Liu</strong>, Niklas Sanden, Dounia Hammou, Daqi Lin, Tomas Akenine-Möller, Rafal Mantiuk
+      Pontus Ebelin, <strong>Yaru Liu</strong>, Niklas Sanden, Dounia Hammou, Daqi Lin, Tomas Akenine-Möller, Rafal Mantiuk, 2026
       <br>
       <p style="margin-top: 8px; font-size: 0.95em;">We present SPEM-F, a novel preprocessing filter that models smooth pursuit eye motion to convert any image or video metric into a perceptual video quality metric. Validated on a new 240-fps dataset, it physiologically simulates visual system latency, significantly improving prediction accuracy for temporal rendering artifacts and fast motion.</p>
     </td>
@@ -117,7 +117,7 @@ Feel free to reach out for collaboration🩵
       <br>
       Chenliang Zhou, Zheyuan Hu, Alejandro Sztrajman, Yancheng Cai, <strong>Yaru Liu</strong>, Cengiz Oztireli
       <br>
-      <em>Proceedings of the AAAI Conference on Artificial Intelligence</em>
+      <em>Proceedings of the AAAI Conference on Artificial Intelligence, 2025</em>
       <br>
       <a href="https://ojs.aaai.org/index.php/AAAI/article/view/38363">[Paper]</a>
       <p style="margin-top: 8px; font-size: 0.95em;">This framework enables neural material synthesis utilizing hyperdiffusion to learn the distribution over material weights. It provides flexible generation guided by multi-modal inputs such as material types, text descriptions, or reference images.</p>
