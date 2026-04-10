@@ -55,8 +55,8 @@ Feel free to reach out for collaboration🩵
       <br>
       <em>Accepted to SIGGRAPH 2026</em>
       <br>
-      <a href="">[Paper]</a>
-      <p style="margin-top: 8px; font-size: 0.95em;">We exploit the spatio-temporal limits of the human visual system to adaptively adjust frame rate and resolution based on scene content and motion. A lightweight neural network predicts the optimal configuration to maximize perceptual quality while minimizing rendering load under bandwidth constraints.</p>
+      <!-- <a href="">[Paper]</a> -->
+      <p style="margin-top: 8px; font-size: 0.95em;">We exploit the spatio-temporal limits of the human visual system to adaptively adjust frame rate and resolution based on scene content and motion. A lightweight neural network predicts the optimal configuration to maximize perceptual quality while minimizing rendering load under bandwidth constraints. Our approach successfully optimizes perceived quality while reducing 50%+ computational power.</p>
     </td>
   </tr>
 
@@ -88,6 +88,20 @@ Feel free to reach out for collaboration🩵
       <br>
       <a href="https://arxiv.org/abs/2604.07959">[Paper]</a>
       <p style="margin-top: 8px; font-size: 0.95em;">We propose a non-reference method leveraging the spatio-temporal limits of human vision to predict the lowest resolution that remains perceptually indistinguishable from maximum quality. This enables highly efficient, perception-guided client-side rendering on power-constrained devices.</p>
+    </td>
+  </tr>
+
+  <!-- SPEM-F -->
+  <tr>
+    <td style="padding:20px;width:35%;vertical-align:middle;text-align:center;">
+      <img src="assets/images/spem.jpg" style="width:100%; max-width: 240px; border-radius: 8px;">
+    </td>
+    <td style="padding:20px;width:65%;vertical-align:middle">
+      <span style="font-weight: bold; font-size: 1.1em;">SPEM-F: Accounting for Eye Motion in Image and Video Quality Metrics</span>
+      <br>
+      Pontus Ebelin, <strong>Yaru Liu</strong>, Niklas Sanden, Dounia Hammou, Daqi Lin, Tomas Akenine-Möller, Rafal Mantiuk
+      <br>
+      <p style="margin-top: 8px; font-size: 0.95em;">We present SPEM-F, a novel preprocessing filter that models smooth pursuit eye motion to convert any image or video metric into a perceptual video quality metric. Validated on a new 240-fps dataset, it physiologically simulates visual system latency, significantly improving prediction accuracy for temporal rendering artifacts and fast motion.</p>
     </td>
   </tr>
 
