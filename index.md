@@ -68,6 +68,7 @@ Feel free to reach out for collaboration🩵
       <br>
       <strong>Yaru Liu</strong>, Ao-bo Wang, Nanyang Ye, 2026
       <br>
+      <a href="https://arxiv.org/abs/2604.09036">[Paper]</a>
       <p style="margin-top: 8px; font-size: 0.95em;">We present V-CAGE, an agentic framework for autonomous robotic data synthesis that leverages foundation models to bridge high-level semantic reasoning with low-level physical interaction. By centralizing semantic layout planning and visual self-verification, V-CAGE fully automates the end-to-end pipeline for highly scalable robotic datasets.</p>
     </td>
   </tr>
