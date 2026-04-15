@@ -35,7 +35,7 @@ Feel free to reach out for collaboration🩵
 - **[Jan, 2026]** Started my internship at the **NVIDIA Real-Time Graphics Group**.
 - **[Jun, 2025]** Honored to be selected as a finalist for the [Qualcomm Innovation Fellowship Europe 2025](https://www.qualcomm.com/research/university-relations/innovation-fellowship).
 - **[May, 2025]** Invited Talk: [Streaming of rendered content with adaptive frame rate and resolution](https://www.cst.cam.ac.uk/seminars/list/232780) at the **University of Cambridge**.
-- **[Mar, 2025]** Grateful to receive the [Rabin Ezra Scholarship Trust](https://sites.google.com/view/rabin-ezra-scholarship-trust) 2025 Award.
+- **[Mar, 2025]** Grateful to receive the 2025 [Rabin Ezra Scholarship Trust](https://sites.google.com/view/rabin-ezra-scholarship-trust) as one of three UK researchers for excellence in computer graphics and visual computing.
 
 ## Projects
 
