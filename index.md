@@ -54,7 +54,7 @@ Feel free to reach out for collaboration🩵
       <em>Accepted to SIGGRAPH 2026</em>
       <br>
       <!-- <a href="">[Paper]</a> -->
-      <p style="margin-top: 8px; font-size: 0.95em;">We exploit the spatio-temporal limits of the human visual system to adaptively adjust frame rate and resolution based on scene content and motion. A lightweight neural network predicts the optimal configuration to maximize perceptual quality while minimizing rendering load under bandwidth constraints. Our approach successfully optimizes perceived quality while reducing 50%+ computational power.</p>
+      <p style="margin-top: 8px; font-size: 0.95em;">We exploit the spatio-temporal limits of the human visual system to adaptively adjust frame rate and resolution based on scene content and motion. A lightweight neural network predicts the optimal configuration to maximize perceptual quality while minimizing rendering load under bandwidth constraints. Our approach successfully optimizes perceived quality while reducing 50%+ computational costs.</p>
     </td>
   </tr>
 
