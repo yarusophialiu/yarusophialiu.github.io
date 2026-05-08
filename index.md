@@ -31,7 +31,7 @@ Feel free to reach out for collaboration🩵
 
 ## News
 
-- **[Apr, 2026]** Our paper, **"Streaming of Rendered Content with Adaptive Frame Rate and Resolution,"** has been accepted to **SIGGRAPH 2026**.
+- **[Apr, 2026]** Our paper, [**"Streaming of Rendered Content with Adaptive Frame Rate and Resolution,"**](https://www.cl.cam.ac.uk/research/rainbow/projects/adaptive_streaming/) has been accepted to **SIGGRAPH 2026**.
 - **[Jan, 2026]** Started my internship at the **NVIDIA Real-Time Graphics Group**.
 - **[Jun, 2025]** Honored to be selected as a finalist for the [Qualcomm Innovation Fellowship Europe 2025](https://www.qualcomm.com/research/university-relations/innovation-fellowship).
 - **[May, 2025]** Invited Talk: [Streaming of rendered content with adaptive frame rate and resolution](https://www.cst.cam.ac.uk/seminars/list/232780) at the **University of Cambridge**.
@@ -53,7 +53,7 @@ Feel free to reach out for collaboration🩵
       <br>
       <em>Accepted to SIGGRAPH 2026</em>
       <br>
-      <!-- <a href="">[Paper]</a> -->
+      <a href="https://www.cl.cam.ac.uk/research/rainbow/projects/adaptive_streaming/">[Paper]</a>
       <p style="margin-top: 8px; font-size: 0.95em;">We exploit the spatio-temporal limits of the human visual system to adaptively adjust frame rate and resolution based on scene content and motion. A lightweight neural network predicts the optimal configuration to maximize perceptual quality while minimizing rendering load under bandwidth constraints. Our approach successfully optimizes perceived quality while reducing 50%+ computational costs.</p>
     </td>
   </tr>
