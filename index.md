@@ -31,6 +31,7 @@ Feel free to reach out for collaboration🩵
 
 ## News
 
+- **[Jun, 2026]** Joined the **Tencent Qingyun Plan (腾讯青云计划)** to work on **world models**.
 - **[Apr, 2026]** Our paper, [**"Streaming of Rendered Content with Adaptive Frame Rate and Resolution,"**](https://www.cl.cam.ac.uk/research/rainbow/projects/adaptive_streaming/) has been accepted to **SIGGRAPH 2026**.
 - **[Jan, 2026]** Started my internship at the **NVIDIA Real-Time Graphics Group**.
 - **[Jun, 2025]** Honored to be selected as a finalist for the [Qualcomm Innovation Fellowship Europe 2025](https://www.qualcomm.com/research/university-relations/innovation-fellowship).
@@ -59,7 +60,7 @@ Feel free to reach out for collaboration🩵
   </tr>
 
   <!-- V-CAGE -->
-  <!-- <tr>
+  <tr>
     <td style="padding:20px;width:35%;vertical-align:middle;text-align:center;">
       <img src="assets/images/vcage.png" style="width:100%; max-width: 240px; border-radius: 8px;">
     </td>
@@ -71,10 +72,10 @@ Feel free to reach out for collaboration🩵
       <a href="https://arxiv.org/abs/2604.09036">[Paper]</a>
       <p style="margin-top: 8px; font-size: 0.95em;">We present V-CAGE, an agentic framework for autonomous robotic data synthesis that leverages foundation models to bridge high-level semantic reasoning with low-level physical interaction. By centralizing semantic layout planning and visual self-verification, V-CAGE fully automates the end-to-end pipeline for highly scalable robotic datasets.</p>
     </td>
-  </tr> -->
+  </tr>
 
   <!-- Seeing enough -->
-  <!-- <tr>
+  <tr>
     <td style="padding:20px;width:35%;vertical-align:middle;text-align:center;">
       <img src="assets/images/seeing_enough.jpg" style="width:100%; max-width: 240px; border-radius: 8px;">
     </td>
@@ -86,7 +87,7 @@ Feel free to reach out for collaboration🩵
       <a href="https://arxiv.org/abs/2604.07959">[Paper]</a>
       <p style="margin-top: 8px; font-size: 0.95em;">We propose a non-reference method leveraging the spatio-temporal limits of human vision to predict the lowest resolution that remains perceptually indistinguishable from maximum quality. This enables highly efficient, perception-guided client-side rendering on power-constrained devices.</p>
     </td>
-  </tr> -->
+  </tr>
 
   <!-- SPEM-F -->
   <tr>
