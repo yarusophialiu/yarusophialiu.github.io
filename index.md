@@ -106,7 +106,7 @@ Feel free to reach out for collaboration🩵
   <!-- M3ashy -->
   <tr>
     <td style="padding:20px;width:35%;vertical-align:middle;text-align:center;">
-      <img src="assets/images/m3ashy.png" style="width:100%; max-width: 240px; border-radius: 8px;">
+      <img src="assets/images/m3ashy.jpg" style="width:100%; max-width: 240px; border-radius: 8px;">
     </td>
     <td style="padding:20px;width:65%;vertical-align:middle">
       <span style="font-weight: bold; font-size: 1.1em;">M3ashy: Multi-modal material synthesis via hyperdiffusion</span>
@@ -123,7 +123,7 @@ Feel free to reach out for collaboration🩵
   <!-- Real-Time Scene Reconstruction -->
   <tr>
     <td style="padding:20px;width:35%;vertical-align:middle;text-align:center;">
-      <img src="assets/images/i3d_cover.png" style="width:100%; max-width: 240px; border-radius: 8px;">
+      <img src="assets/images/i3d_cover.jpg" style="width:100%; max-width: 240px; border-radius: 8px;">
     </td>
     <td style="padding:20px;width:65%;vertical-align:middle">
       <span style="font-weight: bold; font-size: 1.1em;">Real-Time Scene Reconstruction using Light Field Probes</span>
