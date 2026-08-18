@@ -18,7 +18,9 @@
   <div style="flex: 1 1 400px;" markdown="1">
 <h1 style="text-align: center; border-bottom: none; margin: 0 0 15px 0;">Yaru Liu</h1>
 
-Hi there! I’m a third year PhD student in the Department of CST at University of Cambridge, advised by Prof. [Rafal Mantiuk](https://www.cl.cam.ac.uk/~rkm38/). My PhD research lies in the intersection field of **Computer Graphics** and **Machine Learning**. My research background includes content adaptive rendering and real-time 3D Reconstruction.
+<!-- Hi there! I’m a third year PhD student in the Department of CST at University of Cambridge, advised by Prof. [Rafal Mantiuk](https://www.cl.cam.ac.uk/~rkm38/). My PhD research lies in the intersection field of **Computer Graphics** and **Machine Learning**. My research background includes content adaptive rendering and real-time 3D Reconstruction. I care about **world models** and **embodied AI safety**. -->
+
+Hi there! I'm a third-year PhD student in the Department of Computer Science and Technology at the University of Cambridge, advised by Prof. [Rafal Mantiuk](https://www.cl.cam.ac.uk/~rkm38/). My research sits at the intersection of **Computer Graphics** and **Machine Learning**, with a background in content-adaptive rendering and real-time 3D reconstruction. I care about **world models** and **embodied AI safety**.
 
 Previously, I obtained my B.Sc. degree in **pure math** at University of Toronto, and Msc. degree in **computer engineering** at McGill University, where I was gratefully supervised by [Prof. Derek Nowrouzezahrai](https://www.cim.mcgill.ca/~derek/) and [Prof. Morgan McGuire](https://casual-effects.com/morgan/index.html).
 
