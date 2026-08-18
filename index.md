@@ -5,7 +5,7 @@
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 40px; margin-bottom: 30px;">
   <!-- Left Column: Profile Picture -->
   <div style="flex: 0 0 230px; text-align: center;">
-    <img src="assets/images/fullbody.jpg" style="width: 100%; max-width: 230px; border-radius: 8px; margin-bottom: 12px;">
+    <img src="assets/images/fullbody_reduced.jpg" style="width: 100%; max-width: 230px; border-radius: 8px; margin-bottom: 12px;">
     <p style="margin: 0; font-size: 0.95em; line-height: 1.5;">
       <a href="https://scholar.google.co.uk/citations?view_op=list_works&hl=en&user=F5qFAhUAAAAJ">Google Scholar</a><br>
       <a href="https://www.linkedin.com/in/yaru-liu-aa5288bb/">LinkedIn</a> &nbsp;|&nbsp;
