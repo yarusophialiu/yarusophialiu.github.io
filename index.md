@@ -40,6 +40,88 @@ Feel free to reach out for collaboration🩵
 <!-- - **[May, 2025]** Invited Talk: [Streaming of rendered content with adaptive frame rate and resolution](https://www.cst.cam.ac.uk/seminars/list/232780) at the **University of Cambridge**. -->
 - **[Mar, 2025]** Grateful to receive the 2025 [Rabin Ezra Scholarship Trust](https://sites.google.com/view/rabin-ezra-scholarship-trust) as one of three UK researchers for excellence in computer graphics and visual computing.
 
+## Education
+
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;">
+  <tr>
+    <td style="padding:12px 20px;width:90px;vertical-align:middle;text-align:center;">
+      <img src="assets/images/logo_cambridge.png" style="height:70px; width:auto;">
+    </td>
+    <td style="padding:12px 20px;vertical-align:middle">
+      <span style="font-weight: bold; font-size: 1.1em;">University of Cambridge</span>
+      <br>Ph.D. in Department of Computer Science and Technology<br>Supervised by Prof. <a href="https://www.cl.cam.ac.uk/~rkm38/">Rafal Mantiuk</a>
+      <br><em>Oct 2023 – Present (expecting 2027)</em>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding:12px 20px;width:90px;vertical-align:middle;text-align:center;">
+      <img src="assets/images/logo_mcgill.png" style="height:70px; width:auto;">
+    </td>
+    <td style="padding:12px 20px;vertical-align:middle">
+      <span style="font-weight: bold; font-size: 1.1em;">McGill University</span>
+      <br>M.Sc. in Computer Engineering<br>Supervised by <a href="https://www.cim.mcgill.ca/~derek/">Prof. Derek Nowrouzezahrai</a> and <a href="https://casual-effects.com/morgan/index.html">Prof. Morgan McGuire</a>
+      <br><em>Sep 2021 – Aug 2023</em>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding:12px 20px;width:90px;vertical-align:middle;text-align:center;">
+      <img src="assets/images/logo_toronto.png" style="height:70px; width:auto;">
+    </td>
+    <td style="padding:12px 20px;vertical-align:middle">
+      <span style="font-weight: bold; font-size: 1.1em;">University of Toronto</span>
+      <br>B.Sc. in Theoretical Mathematics, Minor in Computer Science
+      <br><em>Sep 2015 – Oct 2019</em>
+    </td>
+  </tr>
+</table>
+
+## Research Experience
+
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;">
+  <tr>
+    <td style="padding:12px 20px;width:90px;vertical-align:middle;text-align:center;">
+      <img src="assets/images/logo_tencent.png" style="width:80px; height:auto;">
+    </td>
+    <td style="padding:12px 20px;vertical-align:middle">
+      <span style="font-weight: bold; font-size: 1.1em;">Tencent (Qingyun Plan)</span>
+      <br>Research Intern, World Model · Shenzhen, China
+      <br><em>Jun 2026 – Present</em>
+      <ul style="margin: 6px 0 0 0; padding-left: 20px; font-size: 0.95em;">
+        <li>Selected for Tencent's Qingyun Program, a highly selective talent initiative recruiting top-tier technical students for frontier AI research across Tencent's core labs.</li>
+        <li>Building a 3D reconstruction pipeline that ingests multiple generatively-produced videos and reconstructs coherent, geometrically consistent scenes for downstream world-model training.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding:12px 20px;width:90px;vertical-align:middle;text-align:center;">
+      <img src="assets/images/logo_nvidia.png" style="width:80px; height:auto;">
+    </td>
+    <td style="padding:12px 20px;vertical-align:middle">
+      <span style="font-weight: bold; font-size: 1.1em;">NVIDIA</span>
+      <br>Research Intern, Real-time Graphics Group · United Kingdom
+      <br><em>Oct 2025 – Apr 2026</em>
+      <ul style="margin: 6px 0 0 0; padding-left: 20px; font-size: 0.95em;">
+        <li>Developed a universal motion-aware module, attachable to any video quality metric (VQM), that integrates physiologically plausible temporal filters to simulate human saccadic and smooth pursuit eye movements.</li>
+        <li>Enabled standard VQM benchmarks to accurately account for complex object trajectories and dynamic camera motion through human-visual-system (HVS)-inspired modeling.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding:12px 20px;width:90px;vertical-align:middle;text-align:center;">
+      <img src="assets/images/logo_huawei.png" style="width:80px; height:auto;">
+    </td>
+    <td style="padding:12px 20px;vertical-align:middle">
+      <span style="font-weight: bold; font-size: 1.1em;">Huawei R&amp;D UK</span>
+      <br>Research Intern, AI Rendering Group · United Kingdom
+      <br><em>Oct 2024 – Oct 2025</em>
+      <ul style="margin: 6px 0 0 0; padding-left: 20px; font-size: 0.95em;">
+        <li>Authored a research paper demonstrating a novel method to cut computational overhead by 50% on edge devices with zero degradation in visual fidelity.</li>
+        <li>Engineered a client-side 3D Gaussian Splatting (3DGS) framework to enable high-fidelity 3D reconstruction and generative modeling on edge devices.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 ## Projects
 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
@@ -139,3 +221,20 @@ Feel free to reach out for collaboration🩵
     </td>
   </tr>
 </table>
+
+## Hobby
+
+Founded 3 startups (one acquired in 2023), consistently targeting problems with high technical barriers.
+
+## Patent
+
+**System and Method for Adaptive Rendering and Streaming** (2026 U.S. Patent Application)
+
+- **Yaru Liu**, Joseph March, Rafal Mantiuk
+- Optimized cloud-rendered content delivery using dynamic spatial-temporal scaling.
+
+## Selected Award
+
+- **Finalist**, Qualcomm Innovation Fellowship Europe 2025 — Jun 2025
+- **Rabin Ezra Scholarship Trust** — Mar 2025
+- **McGill University Graduate Excellence Awards** — 2021, 2022, 2023
