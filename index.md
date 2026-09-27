@@ -66,6 +66,7 @@ Feel free to reach out for collaboration🩵
 <div style="flex:1 1 auto; min-width:0;">
 <div style="font-weight:bold; font-size:1.05em;">University of Toronto</div>
 <div style="font-size:0.9em; margin-top:4px;">B.Sc. in Theoretical Mathematics, Minor in Computer Science</div>
+<div style="font-size:0.9em; margin-top:4px;">Deeply influenced by <a href="https://www.math.toronto.edu/mgualt/">Prof. Marco Gualtieri</a></div>
 <div style="font-size:0.9em; margin-top:4px;"><em>Sep 2015 – Oct 2019</em></div>
 </div>
 </div>
@@ -88,36 +89,30 @@ Feel free to reach out for collaboration🩵
 <div style="flex:0 0 84px; text-align:center; padding-top:4px;"><img src="assets/images/logo_tencent.png" style="width:80px !important; max-width:80px !important; height:auto !important;"></div>
 <div style="flex:1 1 auto; min-width:0;">
 <span style="font-weight: bold; font-size: 1.1em;">Tencent (Qingyun Plan)</span>
-<br>Research Intern, World Model · Shenzhen, China
+<br>Research Intern, World Model 
+<!-- Shenzhen, China -->
 <br><em>Jun 2026 – Present</em>
-<ul style="margin: 8px 0 0 0; padding-left: 18px; font-size: 0.9em;">
-<!-- <li>Selected for Tencent's Qingyun Program, a highly selective talent initiative recruiting top-tier technical students for frontier AI research across Tencent's core labs.</li> -->
-<li>Built a 3D reconstruction pipeline that ingests multiple generatively-produced videos and reconstructs coherent, geometrically consistent scenes.</li>
-</ul>
+<div style="margin: 8px 0 0 0; font-size: 0.9em;">Built a 3D reconstruction pipeline that ingests multiple generatively-produced videos and reconstructs coherent, geometrically consistent scenes.</div>
 </div>
 </div>
 <div class="entry-card" style="display:flex; gap:14px; align-items:flex-start;">
 <div style="flex:0 0 84px; text-align:center; padding-top:4px;"><img src="assets/images/logo_nvidia.png" style="width:60px !important; max-width:60px !important; height:auto !important; border-radius:12px;"></div>
 <div style="flex:1 1 auto; min-width:0;">
 <span style="font-weight: bold; font-size: 1.1em;">NVIDIA</span>
-<br>Research Intern, Real-time Graphics Group · United Kingdom
+<br>Research Intern, Real-time Graphics Group 
+<!-- · United Kingdom -->
 <br><em>Oct 2025 – Apr 2026</em>
-<ul style="margin: 8px 0 0 0; padding-left: 18px; font-size: 0.9em;">
-<li>Developed a universal motion-aware module, attachable to any video quality metric (VQM), that integrates physiologically plausible temporal filters to simulate human saccadic and smooth pursuit eye movements.</li>
-<li>Enabled standard VQM benchmarks to accurately account for complex object trajectories and dynamic camera motion through human-visual-system (HVS)-inspired modeling.</li>
-</ul>
+<div style="margin: 8px 0 0 0; font-size: 0.9em;">Developed a universal motion-aware module, attachable to any video quality metric (VQM), that simulates human saccadic and smooth pursuit eye movements. Enabled standard VQM benchmarks to accurately account for complex object trajectories and dynamic camera motion through human-visual-system (HVS)-inspired modeling.</div>
 </div>
 </div>
 <div class="entry-card" style="display:flex; gap:14px; align-items:flex-start;">
 <div style="flex:0 0 84px; text-align:center; padding-top:4px;"><img src="assets/images/logo_huawei.png" style="width:80px !important; max-width:80px !important; height:auto !important;"></div>
 <div style="flex:1 1 auto; min-width:0;">
 <span style="font-weight: bold; font-size: 1.1em;">Huawei R&amp;D UK</span>
-<br>Research Intern, AI Rendering Group · United Kingdom
+<br>Research Intern, AI Rendering Group 
+<!-- United Kingdom -->
 <br><em>Oct 2024 – Oct 2025</em>
-<ul style="margin: 8px 0 0 0; padding-left: 18px; font-size: 0.9em;">
-<li>Proposed a novel method to cut computational overhead by 50% on edge devices with zero degradation in visual fidelity.</li>
-<li>3D Gaussian Splatting (3DGS) on edge devices.</li>
-</ul>
+<div style="margin: 8px 0 0 0; font-size: 0.9em;">Proposed a novel method to cut computational overhead by 50% on edge devices with zero degradation in visual fidelity. Worked on 3D Gaussian Splatting (3DGS) framework on edge devices.</div>
 </div>
 </div>
 </div>
@@ -132,7 +127,7 @@ Feel free to reach out for collaboration🩵
 <em>Accepted to SIGGRAPH 2026</em>
 <br>
 <a href="https://www.cl.cam.ac.uk/research/rainbow/projects/adaptive_streaming/">[Paper]</a>
-<p style="margin: 8px 0 0 0; font-size: 0.9em;">We exploit the spatio-temporal limits of the human visual system to adaptively adjust frame rate and resolution based on scene content and motion. A lightweight neural network predicts the optimal configuration to maximize perceptual quality while minimizing rendering load under bandwidth constraints. Our approach successfully optimizes perceived quality while reducing 50%+ computational costs.</p>
+<!-- <p style="margin: 8px 0 0 0; font-size: 0.9em;">We exploit the spatio-temporal limits of the human visual system to adaptively adjust frame rate and resolution based on scene content and motion. A lightweight neural network predicts the optimal configuration to maximize perceptual quality while minimizing rendering load under bandwidth constraints. Our approach successfully optimizes perceived quality while reducing 50%+ computational costs.</p> -->
 </div>
 <div class="entry-card">
 <img class="proj" style="width:100% !important; max-width:100% !important; height:200px !important; object-fit:contain; display:block; margin:0 auto 12px auto; border-radius:8px;" src="assets/images/vcage.png">
@@ -141,7 +136,7 @@ Feel free to reach out for collaboration🩵
 <strong>Yaru Liu</strong>, Ao-bo Wang, Nanyang Ye, 2026
 <br>
 <a href="https://arxiv.org/abs/2604.09036">[Paper]</a>
-<p style="margin: 8px 0 0 0; font-size: 0.9em;">We present V-CAGE, an agentic framework for autonomous robotic data synthesis that leverages foundation models to bridge high-level semantic reasoning with low-level physical interaction. By centralizing semantic layout planning and visual self-verification, V-CAGE fully automates the end-to-end pipeline for highly scalable robotic datasets.</p>
+<!-- <p style="margin: 8px 0 0 0; font-size: 0.9em;">We present V-CAGE, an agentic framework for autonomous robotic data synthesis that leverages foundation models to bridge high-level semantic reasoning with low-level physical interaction. By centralizing semantic layout planning and visual self-verification, V-CAGE fully automates the end-to-end pipeline for highly scalable robotic datasets.</p> -->
 </div>
 <div class="entry-card">
 <img class="proj" style="width:100% !important; max-width:100% !important; height:200px !important; object-fit:contain; display:block; margin:0 auto 12px auto; border-radius:8px;" src="assets/images/seeing_enough.jpg">
@@ -150,7 +145,7 @@ Feel free to reach out for collaboration🩵
 <strong>Yaru Liu</strong>, Dayllon Vinícius Xavier Lemos, Ali Bozorgian, Chengxi Zeng, Alexander Hepburn, Arnau Raventos, 2026
 <br>
 <a href="https://arxiv.org/abs/2604.07959">[Paper]</a>
-<p style="margin: 8px 0 0 0; font-size: 0.9em;">We propose a non-reference method leveraging the spatio-temporal limits of human vision to predict the lowest resolution that remains perceptually indistinguishable from maximum quality. This enables highly efficient, perception-guided client-side rendering on power-constrained devices.</p>
+<!-- <p style="margin: 8px 0 0 0; font-size: 0.9em;">We propose a non-reference method leveraging the spatio-temporal limits of human vision to predict the lowest resolution that remains perceptually indistinguishable from maximum quality. This enables highly efficient, perception-guided client-side rendering on power-constrained devices.</p> -->
 </div>
 <div class="entry-card">
 <img class="proj" style="width:100% !important; max-width:100% !important; height:200px !important; object-fit:contain; display:block; margin:0 auto 12px auto; border-radius:8px;" src="assets/images/spem.jpg">
@@ -158,7 +153,7 @@ Feel free to reach out for collaboration🩵
 <br>
 Pontus Ebelin, <strong>Yaru Liu</strong>, Niklas Sanden, Dounia Hammou, Daqi Lin, Tomas Akenine-Möller, Rafal Mantiuk, 2026
 <br>
-<p style="margin: 8px 0 0 0; font-size: 0.9em;">We present SPEM-F, a novel preprocessing filter that models smooth pursuit eye motion to convert any image or video metric into a perceptual video quality metric. Validated on a new 240-fps dataset, it physiologically simulates visual system latency, significantly improving prediction accuracy for temporal rendering artifacts and fast motion.</p>
+<p style="margin: 8px 0 0 0; font-size: 0.9em;">A novel preprocessing filter that models smooth pursuit eye motion and physiologically simulates visual system latency, significantly improving prediction accuracy for temporal rendering artifacts and fast motion.</p>
 </div>
 <div class="entry-card">
 <img class="proj" style="width:100% !important; max-width:100% !important; height:200px !important; object-fit:contain; display:block; margin:0 auto 12px auto; border-radius:8px;" src="assets/images/m3ashy.jpg">
@@ -169,7 +164,7 @@ Chenliang Zhou, Zheyuan Hu, Alejandro Sztrajman, Yancheng Cai, <strong>Yaru Liu<
 <em>Proceedings of the AAAI Conference on Artificial Intelligence, 2025</em>
 <br>
 <a href="https://ojs.aaai.org/index.php/AAAI/article/view/38363">[Paper]</a>
-<p style="margin: 8px 0 0 0; font-size: 0.9em;">This framework enables neural material synthesis utilizing hyperdiffusion to learn the distribution over material weights. It provides flexible generation guided by multi-modal inputs such as material types, text descriptions, or reference images.</p>
+<!-- <p style="margin: 8px 0 0 0; font-size: 0.9em;">This framework enables neural material synthesis utilizing hyperdiffusion to learn the distribution over material weights. It provides flexible generation guided by multi-modal inputs such as material types, text descriptions, or reference images.</p> -->
 </div>
 <div class="entry-card">
 <img class="proj" style="width:100% !important; max-width:100% !important; height:200px !important; object-fit:contain; display:block; margin:0 auto 12px auto; border-radius:8px;" src="assets/images/i3d_cover.jpg">
@@ -180,7 +175,7 @@ Chenliang Zhou, Zheyuan Hu, Alejandro Sztrajman, Yancheng Cai, <strong>Yaru Liu<
 <em>I3D 2024, Poster</em>
 <br>
 <a href="https://arxiv.org/abs/2507.14624">[Paper]</a>
-<p style="margin: 8px 0 0 0; font-size: 0.9em;">Our approach leverages sparse real-world images to generate multi-scale implicit representations of scene geometries. By introducing a novel probe data structure, we accurately capture depths to decouple rendering performance from scene complexity.</p>
+<!-- <p style="margin: 8px 0 0 0; font-size: 0.9em;">Our approach leverages sparse real-world images to generate multi-scale implicit representations of scene geometries. By introducing a novel probe data structure, we accurately capture depths to decouple rendering performance from scene complexity.</p> -->
 </div>
 </div>
 </div>
