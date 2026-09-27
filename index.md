@@ -40,7 +40,10 @@ Feel free to reach out for collaboration🩵
 <!-- - **[May, 2025]** Invited Talk: [Streaming of rendered content with adaptive frame rate and resolution](https://www.cst.cam.ac.uk/seminars/list/232780) at the **University of Cambridge**. -->
 - **[Mar, 2025]** Grateful to receive the 2025 [Rabin Ezra Scholarship Trust](https://sites.google.com/view/rabin-ezra-scholarship-trust) as one of three UK researchers for excellence in computer graphics and visual computing.
 
-## Education
+<!-- ## Education -->
+<br>
+<h2 class="col-title">Education</h2>
+<!-- {: .col-title } -->
 
 <div style="display:flex; flex-direction:column; gap:12px; margin:10px 0;">
 <div style="border:1px solid rgba(128,128,128,0.35); border-radius:10px; box-sizing:border-box; padding:14px 18px; display:flex; gap:18px; align-items:center;">
@@ -79,7 +82,7 @@ Feel free to reach out for collaboration🩵
 .two-col { display:grid !important; grid-template-columns:minmax(0,1fr) minmax(0,1fr); gap:24px; align-items:start; width:100%; margin-top:40px; }
 .two-col > div { min-width:0; }
 @media (max-width:600px) { .two-col { grid-template-columns:minmax(0,1fr); } }
-.col-title { display:inline-block; padding-bottom:8px; margin:0 0 20px 0; border-bottom:3px solid #2c3e91 !important; }
+.col-title { display:inline-block; padding-bottom:8px; margin:0 0 20px 0; border-bottom:3px solid #4da6ff !important; }
 </style>
 
 <div class="two-col">
