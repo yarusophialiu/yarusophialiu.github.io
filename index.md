@@ -89,7 +89,8 @@ Feel free to reach out for collaboration🩵
 <div style="flex:0 0 84px; text-align:center; padding-top:4px;"><img src="assets/images/logo_tencent.png" style="width:80px !important; max-width:80px !important; height:auto !important;"></div>
 <div style="flex:1 1 auto; min-width:0;">
 <span style="font-weight: bold; font-size: 1.1em;">Tencent (Qingyun Plan)</span>
-<br>Research Intern, World Model 
+<br>Research Scientist Intern
+<br>World Model
 <!-- Shenzhen, China -->
 <br><em>Jun 2026 – Present</em>
 <div style="margin: 8px 0 0 0; font-size: 0.9em;">Built a 3D reconstruction pipeline that ingests multiple generatively-produced videos and reconstructs coherent, geometrically consistent scenes.</div>
@@ -99,7 +100,8 @@ Feel free to reach out for collaboration🩵
 <div style="flex:0 0 84px; text-align:center; padding-top:4px;"><img src="assets/images/logo_nvidia.png" style="width:60px !important; max-width:60px !important; height:auto !important; border-radius:12px;"></div>
 <div style="flex:1 1 auto; min-width:0;">
 <span style="font-weight: bold; font-size: 1.1em;">NVIDIA</span>
-<br>Research Intern, Real-time Graphics Group 
+<br>Research Scientist Intern
+<br>Real-time Graphics Group
 <!-- · United Kingdom -->
 <br><em>Oct 2025 – Apr 2026</em>
 <div style="margin: 8px 0 0 0; font-size: 0.9em;">Developed a universal motion-aware module, attachable to any video quality metric (VQM), that simulates human saccadic and smooth pursuit eye movements. Enabled standard VQM benchmarks to accurately account for complex object trajectories and dynamic camera motion through human-visual-system (HVS)-inspired modeling.</div>
@@ -109,7 +111,8 @@ Feel free to reach out for collaboration🩵
 <div style="flex:0 0 84px; text-align:center; padding-top:4px;"><img src="assets/images/logo_huawei.png" style="width:80px !important; max-width:80px !important; height:auto !important;"></div>
 <div style="flex:1 1 auto; min-width:0;">
 <span style="font-weight: bold; font-size: 1.1em;">Huawei R&amp;D UK</span>
-<br>Research Intern, AI Rendering Group 
+<br>Research Scientist Intern
+<br>AI Rendering Group
 <!-- United Kingdom -->
 <br><em>Oct 2024 – Oct 2025</em>
 <div style="margin: 8px 0 0 0; font-size: 0.9em;">Proposed a novel method to cut computational overhead by 50% on edge devices with zero degradation in visual fidelity. Worked on 3D Gaussian Splatting (3DGS) framework on edge devices.</div>
